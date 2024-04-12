@@ -1,8 +1,5 @@
-#Lab 4 
+потрібно встановити:
 
 pip install matplotlib plotly
-
-#Lab 5
-
 
 pip install numpy
